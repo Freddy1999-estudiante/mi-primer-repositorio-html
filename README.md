@@ -16,3 +16,4 @@ JavaScript: Para la funcionalidad y la interacción en la página.
 Próximos Pasos
 Añadir nuevos elementos y estilos a la página web.
 Ampliar la funcionalidad de index.html con JavaScript..
+Próximamente agregaré más contenido en HTML.
