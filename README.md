@@ -17,3 +17,5 @@ Próximos Pasos
 Añadir nuevos elementos y estilos a la página web.
 Ampliar la funcionalidad de index.html con JavaScript..
 Próximamente agregaré más contenido en HTML.
+adaptamos una pagina de simuladores que se adaptara con el index.html ya creada 
+Proximamente adaptaremos ejercicios de JavaScript.. para los simuladores 
