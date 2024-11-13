@@ -15,4 +15,4 @@ HTML: Para la estructura y contenido del sitio web.
 JavaScript: Para la funcionalidad y la interacción en la página.
 Próximos Pasos
 Añadir nuevos elementos y estilos a la página web.
-Ampliar la funcionalidad de index.html con JavaScript.
+Ampliar la funcionalidad de index.html con JavaScript..
