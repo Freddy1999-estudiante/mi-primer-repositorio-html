@@ -1,0 +1,145 @@
+aqui adaptaremos una pagina de simuladores que sera conectada con el index.html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ejercicios de Lógica de Programación</title>
+    <style>
+      /* Estilos generales */
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f2f5;
+        margin: 0;
+        padding: 20px;
+      }
+
+      h1 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 20px;
+      }
+
+      /* Contenedor de las tarjetas */
+      .grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+
+      /* Estilos de las tarjetas */
+      .card {
+        flex: 1 1 calc(20% - 20px); /* Ajuste para 5 tarjetas por fila */
+        background-color: #06365727;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(108, 151, 161, 0.1);
+        padding: 20px;
+        text-align: center;
+        transition: transform 0.3s;
+        min-height: 180px;
+      }
+
+      .card:hover {
+        transform: translateY(-5px);
+      }
+
+      .card h3 {
+        color: #012231a9;
+        margin-bottom: 10px;
+        font-size: 1.2em;
+      }
+
+      .card p {
+        font-size: 0.9em;
+        color: #666;
+        margin-bottom: 15px;
+        line-height: 1.4;
+      }
+
+      .card a {
+        display: inline-block;
+        padding: 8px 12px;
+        background-color: #007bff;
+        color: #ffffff;
+        text-decoration: none;
+        border-radius: 4px;
+        font-weight: bold;
+        transition: background-color 0.3s;
+      }
+
+      .card a:hover {
+        background-color: #0056b3;
+      }
+    </style>
+  </head>
+  <body>
+     <!-- Botón de "Volver a inicio" en la parte superior izquierda -->
+     <a href="index.html" style="position: absolute; top: 20px; left: 20px; background-color: #4CAF50; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      Volver a inicio</a>
+    <h1>Ejercicios de Lógica del Simulador</h1>
+    <div class="grid">
+      <!-- 40 Tarjetas (5 por fila, 8 filas en total) -->
+      <!-- Fila 1 -->
+      <div class="card">
+        <h3>ejercicio 1</h3>
+        <p>Un número es perfecto cuando la suma de los divisores incluidos 1 
+          y excluido el propio número es igual al propio número.</p>
+        <a href="./numeroperfecto.html">Ver Ejercicio</a>
+      </div>
+      <div class="card">
+        <h3>Ejercicio 2</h3>
+        <p>Una tienda de electrodomésticos tiene un sistema de precios especiales 
+        dependiendo del producto y la cantidad comprada.</p>
+        <a href="./tienda.html">Ver Ejercicio</a>
+      </div>
+      <div class="card">
+        <h3>Ejercicio 3</h3>
+        <p>funcion que imprima todos los números del 1 al 50 que sean divisibles por 3 y 7. 
+          y al final muestre la suma de los numeros pares y la suma de los impares. </p>
+        <a href="./divisible.html">Ver Ejercicio</a>
+      </div>
+      <div class="card">
+        <h3>Ejercicio 4</h3>
+        <p>Dado un número, almacena sus dígitos en un arreglo y luego recorre el arreglo 
+          presentando la suma de esos dígitos.</p>
+        <a href="./digito.html">Ver Ejercicio</a>
+      </div>
+      <div class="card">
+        <h3>Ejercicio 5</h3>
+        <p>Función que permite presentar los divisores un número cualquiera excluido el propio número.</p>
+        <a href="./division2.html">Ver Ejercicio</a>
+      </div>
+      <div class="card">
+        <h3>Ejercicio 6</h3>
+        <p>
+          función que genere 10 números y los almacene en un arreglo. 
+          Luego recórrelo y presenta el promedio de los números pares del arreglo.</p>
+        <a href="./promedio.html">Ver Ejercicio</a>
+      </div>
+
+      <!-- Fila 2 -->
+      <div class="card">
+        <h3>Ejercicio 7</h3>
+        <p>Un restaurante que ofrece diferentes promociones dependiendo del día de la semana 
+          y el número de personas en la mesa. </p>
+        <a href="./restaurante.html">Ver Ejercicio</a>
+      </div>
+      <div class="card">
+        <h3>Ejercicio 8</h3>
+        <p>funcion que pida al usuario una frase y cuente cuántos dígitos tiene. .</p>
+        <a href="./usuario.html">Ver Ejercicio</a>
+      </div>
+      <div class="card">
+        <h3>Ejercicio 9</h3>
+        <p>un programa que pida al usuario una frase y cuente cuántas palabras tiene..</p>
+        <a href="./programa.html">Ver Ejercicio</a>
+      </div>
+      <div class="card">
+        <h3>Ejercicio 10</h3>
+        <p>funcion que imprima todos los números del 1 al 50 que sean divisibles por 3 y 7. 
+          y al final muestre la suma de los numeros pares y la suma de los impares. .</p>
+        <a href="./suma.html">Ver Ejercicio</a>
+      </div>
