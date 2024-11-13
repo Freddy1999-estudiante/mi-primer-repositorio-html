@@ -19,3 +19,5 @@ Ampliar la funcionalidad de index.html con JavaScript..
 Próximamente agregaré más contenido en HTML.
 adaptamos una pagina de simuladores que se adaptara con el index.html ya creada 
 Proximamente adaptaremos ejercicios de JavaScript.. para los simuladores 
+# Mi primer proyecto
+Agregué una nueva línea de prueba al archivo README.
