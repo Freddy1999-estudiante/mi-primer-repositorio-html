@@ -20,4 +20,6 @@ Próximamente agregaré más contenido en HTML.
 adaptamos una pagina de simuladores que se adaptara con el index.html ya creada 
 Proximamente adaptaremos ejercicios de JavaScript.. para los simuladores 
 # Mi primer proyecto
+adaptamos los ejercicios de JavaScript para conectarlo con simuladores.html
+
 Agregué una nueva línea de prueba al archivo README.
