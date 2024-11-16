@@ -22,9 +22,8 @@ Proximamente adaptaremos ejercicios de JavaScript.. para los simuladores
 # Mi primer proyecto 2 modificacion
 adaptamos una pagina de simuladores que se adaptara con el index.html ya creada 
 Proximamente adaptaremos ejercicios de JavaScript.. para los simuladores y tambien adaptaremos 
-colores y imagenes en formato CSS para darle color a nuestra pagina de los simuladores de html 
+colores en formato CSS para darle color a nuestra pagina de los simuladores de html y al index.
 # Mi primer proyecto 3 modificacion
-adaptamos los colores en CSS y adaptamos las lineas de codigo para unirlas a nuestra pagina de simuladores HTML 
+adaptamos los colores en CSS y adaptamos las lineas de codigo para unirlas a nuestra pagina de simuladores.html y al index.html
 para asi poder visualizar una mejor presentación a la hora de ejecutar el codigo.
 
-Agregué una nueva línea de prueba al archivo README.
