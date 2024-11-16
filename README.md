@@ -19,7 +19,12 @@ Ampliar la funcionalidad de index.html con JavaScript..
 Próximamente agregaré más contenido en HTML.
 adaptamos una pagina de simuladores que se adaptara con el index.html ya creada 
 Proximamente adaptaremos ejercicios de JavaScript.. para los simuladores 
-# Mi primer proyecto
-adaptamos los ejercicios de JavaScript para conectarlo con simuladores.html
+# Mi primer proyecto 2 modificacion
+adaptamos una pagina de simuladores que se adaptara con el index.html ya creada 
+Proximamente adaptaremos ejercicios de JavaScript.. para los simuladores y tambien adaptaremos 
+colores y imagenes en formato CSS para darle color a nuestra pagina de los simuladores de html 
+# Mi primer proyecto 3 modificacion
+adaptamos los colores en CSS y adaptamos las lineas de codigo para unirlas a nuestra pagina de simuladores HTML 
+para asi poder visualizar una mejor presentación a la hora de ejecutar el codigo.
 
 Agregué una nueva línea de prueba al archivo README.
